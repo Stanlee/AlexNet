@@ -4,3 +4,4 @@
 # AlexNet2
 # AlexNet
 # Inception_ResNet
+# CNN
